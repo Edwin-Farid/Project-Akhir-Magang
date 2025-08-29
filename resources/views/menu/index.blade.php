@@ -6,7 +6,7 @@
         <div class="panel">
             <div class="flex justify-between">
                 <h5 class="mb-5 font-semibold text-lg dark:text-white-light">Daftar
-                    Menu
+                    Menu Makanan
                 </h5>
                 <a href="/menu/create" class="mb-5 btn btn-primary">Tambah</a>
             </div>
